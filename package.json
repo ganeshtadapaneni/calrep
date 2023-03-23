@@ -1,0 +1,16 @@
+{
+    "name":"calcnb1",
+"version":"0.1.3",
+"main":"calc",
+"repository":{
+    "type": "git",
+    "url":"https://github.com/Naguraaaaaa/calcnb1"
+    },
+  "keywords": [
+        "calc","calcnb1"
+  ],
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+    }
+}
